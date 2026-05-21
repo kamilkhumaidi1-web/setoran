@@ -1,0 +1,6 @@
+{
+  "name": "Setoran Hafalan Tahfidz",
+  "description": "Aplikasi pencatatan dan pemantauan setoran hafalan Al-Qur'an (Tahfidz) untuk Guru dan Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
